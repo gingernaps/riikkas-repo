@@ -2,10 +2,9 @@ body, html {
     height: 100%;
 }
 
-/* The hero image */
+
 .hero-image {
-    /* The image used */
-    background-image: url("photographer.jpg");
+    background-image: url("main.jpg");
 
     /* Set a specific height */
     height: 50%;
