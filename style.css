@@ -7,7 +7,7 @@ body, html {
     background-image: url("main.jpg");
 
     /* Set a specific height */
-    height: 50%;
+    height: 80%;
 
     /* Position and center the image to scale nicely on all screens */
     background-position: center;
