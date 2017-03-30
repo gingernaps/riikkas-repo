@@ -30,30 +30,3 @@ body, html {
   font-size: 25px;
   letter-spacing: 10px;
 }
-
-
-
-/*
-.hero-image {
-    background-image: url("main.jpg");
-
-    /* Set a specific height */
-    height: 80%;
-
-    /* Position and center the image to scale nicely on all screens */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-}
-
-/* Place text in the middle of the image */
-.hero-text {
-    text-align: center;
-    position: absolute;
-    top: 60%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-}
-*/
