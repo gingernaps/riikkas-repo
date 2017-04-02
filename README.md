@@ -1,3 +1,3 @@
 # riikkas-repo
 Hello! This is my first repository on GitHub.
-I love :pizza: and :dancer:.
+It is a base for my forthcoming portfolio.
